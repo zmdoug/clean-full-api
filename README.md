@@ -1,11 +1,15 @@
 # [BASE] NODE API
-### Minimalist config to a TDD ready API
+### TDD Starter API
 
 [ x ] Typescript - Auto   
 [ x ] Lint - Fix and display code errors  
 [ x ] LintStaged - Test only staged files  
 [ x ] Husky - Run test before commit  
 [ x ] Commit linter - Force conventional commit format
+
+### Starter flow
+[ x ] User SignUp
+[ x ] User Login
 
 #### This project is pre-configured to use:
 
