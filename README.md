@@ -8,8 +8,8 @@
 [ x ] Commit linter - Force conventional commit format
 
 ### Starter flow
-[ x ] User SignUp
-[ x ] User Login
+[ x ] User SignUp  
+[ x ] User Login  
 
 #### This project is pre-configured to use:
 
